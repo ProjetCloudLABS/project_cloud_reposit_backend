@@ -1,1 +1,2 @@
-# projet_cloud_reposit_1
+# project_cloud_reposit_backend
+Backend of our project at ISEP
