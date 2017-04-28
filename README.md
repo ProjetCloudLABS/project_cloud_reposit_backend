@@ -4,3 +4,4 @@ Backend of our project at ISEP
 - Baron Dimitri #modification
 - Le Livec Antoine
 - Nouis Hichem
+- Captain Hook
